@@ -257,3 +257,7 @@ body > * {
     left:5%;
   }
 }
+
+.img-invert {
+  filter: brightness(0) invert(1);
+}
